@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yanng\\Documents\\Projets\\ChatApp\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+      "projectUniqueName": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
       "projectName": "CardsGameServer",
-      "projectPath": "C:\\Users\\Yanng\\Documents\\Projets\\ChatApp\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+      "projectPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
       "packagesPath": "C:\\Users\\Yanng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yanng\\Documents\\Projets\\ChatApp\\B\\CardsGameServer\\CardsGameServer\\obj\\",
+      "outputPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yanng\\AppData\\Roaming\\NuGet\\NuGet.Config",

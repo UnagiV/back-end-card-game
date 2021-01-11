@@ -15,6 +15,7 @@ namespace CardsGameServer.Controllers
     public class LobbyController : ControllerBase
     {
         private readonly IHubContext<LobbyHub> _hubContext;
+        private int numbersOfPlayers;
 
         public LobbyController(IHubContext<LobbyHub> hubContext)
         {
@@ -25,7 +26,9 @@ namespace CardsGameServer.Controllers
         [HttpPost]
         public IActionResult SendPlayerNameAndFullLobby([FromBody] PlayerDto player)
         {
-            _hubContext.Clients.All.SendAsync("PlayerJoined", player.userName, player.description);
+            LobbyHub lobby = new LobbyHub();
+            numbersOfPlayers = lobby.numbersOfPlayers;
+            _hubContext.Clients.All.SendAsync("PlayerJoined", player.userName, player.description, numbersOfPlayers);
             return Ok();
         }
     }

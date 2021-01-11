@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mT94GHfwln5wZamHZqNYbvV7mWSNNYyVOvhCL9DI0LfHrd6bhmpJ28frOXd2GbcCwdS/0i+up3/T50FG5kJiw==",
+  "dgSpecHash": "1IDA+LJ1Yc0lTwZrdsVRhopKEef8d74/I+bseQFAUNhPgi+Gz0E5bTCM+HhEw0zjediR5oWJqCxlW8cIVRmlsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yanng\\Documents\\Projets\\ChatApp\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+  "projectFilePath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
