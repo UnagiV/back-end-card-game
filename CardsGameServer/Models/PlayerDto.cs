@@ -9,5 +9,6 @@ namespace CardsGameServer.Models
     {
         public string userName { get; set; }
         public string description { get; set; }
+        public int numbersOfPlayers { get; set; }
     }
 }
