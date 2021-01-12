@@ -18,3 +18,23 @@ C:\Users\Yanng\Documents\Projets\ChatApp\B\CardsGameServer\CardsGameServer\obj\D
 C:\Users\Yanng\Documents\Projets\ChatApp\B\CardsGameServer\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.dll
 C:\Users\Yanng\Documents\Projets\ChatApp\B\CardsGameServer\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.pdb
 C:\Users\Yanng\Documents\Projets\ChatApp\B\CardsGameServer\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.genruntimeconfig.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.exe
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.deps.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.runtimeconfig.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.runtimeconfig.dev.json
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.dll
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\bin\Debug\netcoreapp3.1\CardsGameServer.pdb
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.csprojAssemblyReference.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.AssemblyInfoInputs.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.AssemblyInfo.cs
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.RazorTargetAssemblyInfo.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\staticwebassets\CardsGameServer.StaticWebAssets.Manifest.cache
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\staticwebassets\CardsGameServer.StaticWebAssets.xml
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.dll
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.pdb
+C:\Users\Yann\Documents\Projets persos\CG\B\back-end-card-game\CardsGameServer\obj\Debug\netcoreapp3.1\CardsGameServer.genruntimeconfig.cache
