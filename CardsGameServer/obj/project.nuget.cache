@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXI2ZOB9VrFBeS8vDFN2m7AgZCIZlN8f1xY5+1VGlXAs6bKKz32+/s4Ef4d/T1+SZW2KRwaIinVp9oAytbkplA==",
+  "dgSpecHash": "1IDA+LJ1Yc0lTwZrdsVRhopKEef8d74/I+bseQFAUNhPgi+Gz0E5bTCM+HhEw0zjediR5oWJqCxlW8cIVRmlsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
+  "projectFilePath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

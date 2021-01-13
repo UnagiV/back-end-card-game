@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {}
+    "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {
+    "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
+        "projectUniqueName": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
         "projectName": "CardsGameServer",
-        "projectPath": "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
-        "packagesPath": "C:\\Users\\Yann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yann\\Documents\\Projets persos\\CG\\B\\back-end-card-game\\CardsGameServer\\obj\\",
+        "projectPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+        "packagesPath": "C:\\Users\\Yanng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yanng\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
