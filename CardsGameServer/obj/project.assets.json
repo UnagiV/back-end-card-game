@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+      "projectUniqueName": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
       "projectName": "CardsGameServer",
-      "projectPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+      "projectPath": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
       "packagesPath": "C:\\Users\\Yanng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yanng\\Documents\\Projets\\CardsGame\\B\\CardsGameServer\\CardsGameServer\\obj\\",
+      "outputPath": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yanng\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -61,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
