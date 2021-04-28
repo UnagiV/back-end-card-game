@@ -23,8 +23,6 @@ namespace CardsGameServer.Hubs
             return base.OnConnectedAsync();
         }
 
-        
-
         public override Task OnDisconnectedAsync(Exception exception)
         {
             UserHandler.ConnectedIds.Remove(Context.ConnectionId);
