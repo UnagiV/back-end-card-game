@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Yanng\\.nuget\\packages\\": {}
+    "C:\\Users\\yannt\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
+      "projectUniqueName": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
       "projectName": "CardsGameServer",
-      "projectPath": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\CardsGameServer.csproj",
-      "packagesPath": "C:\\Users\\Yanng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yanng\\Documents\\projets\\CardsGame\\CardsGameServer\\CardsGameServer\\obj\\",
+      "projectPath": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
+      "packagesPath": "C:\\Users\\yannt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Yanng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yannt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
