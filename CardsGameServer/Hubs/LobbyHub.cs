@@ -26,8 +26,11 @@ namespace CardsGameServer.Hubs
         public override Task OnDisconnectedAsync(Exception exception)
         {
             UserHandler.ConnectedIds.Remove(Context.ConnectionId);
+            Console.Beep();
             return base.OnDisconnectedAsync(exception);
         }
+
+
 
         public Task AlerFirstPlayer()
         {

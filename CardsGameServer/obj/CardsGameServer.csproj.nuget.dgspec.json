@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {}
+    "C:\\Users\\yannt\\Documents\\ProjetP\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {
+    "C:\\Users\\yannt\\Documents\\ProjetP\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
+        "projectUniqueName": "C:\\Users\\yannt\\Documents\\ProjetP\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
         "projectName": "CardsGameServer",
-        "projectPath": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
+        "projectPath": "C:\\Users\\yannt\\Documents\\ProjetP\\back-end-card-game\\CardsGameServer\\CardsGameServer.csproj",
         "packagesPath": "C:\\Users\\yannt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yannt\\OneDrive\\Documents\\Yann P\\back-end-card-game\\CardsGameServer\\obj\\",
+        "outputPath": "C:\\Users\\yannt\\Documents\\ProjetP\\back-end-card-game\\CardsGameServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
